@@ -1,0 +1,32 @@
+div{
+    border-style: solid;
+}
+.div1{
+    background-color: red; 
+    height: 40px;
+    width:40px;
+    position:relative;
+    right: 20px;
+    bottom:20px;
+}
+.div2{
+    background-color: yellowgreen;
+    height: 400px;
+    width: 260px;
+    margin: 40px;
+    position: absolute;
+}
+.div3{
+    background-color:purple;
+    height: 40px;
+    width:40px;
+    position: absolute;
+    bottom:0px;
+    right: 0px;
+
+}
+.flexbox{
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}

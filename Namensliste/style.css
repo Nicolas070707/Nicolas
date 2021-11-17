@@ -1,0 +1,12 @@
+
+.card{
+    display: flex;
+    justify-content:space-between;
+    width: 300px;
+    background-color: antiquewhite;
+    margin: 5px;
+    padding: 5px;
+}
+.second{
+    width: 200px;
+}

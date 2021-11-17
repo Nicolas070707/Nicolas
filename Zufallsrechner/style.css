@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    
+}
+ 
+.field{
+    margin-block: 10px;
+    justify-content: center;
+}
+.button{
+    text-align: center;
+}
+    

@@ -1,0 +1,40 @@
+.überschrift{
+ border-style: solid; 
+ 
+}
+h1{
+    text-align: center;
+}
+.body{
+   background-image: url(/adida\ x\ nike.jpg);
+   background-size: cover;
+   background-repeat: no-repeat
+}
+button{
+    text-align: right;
+}
+.drawer-button.drawer-open {
+    transition-delay: 0ms;
+    background-color: #16416B;
+}
+.drawer-button, .drawer-content {
+    -webkit-tap-highlight-color: transparent;
+}
+.drawer-button {
+    cursor: pointer;
+    border: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    overflow: visible;
+    line-height: normal;
+    -webkit-font-smoothing: inherit;
+    -moz-osx-font-smoothing: inherit;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color: transparent;
+    transition: background-color .3s ease-in-out;
+    transition-delay: 75ms;
+}
